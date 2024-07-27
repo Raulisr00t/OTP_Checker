@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAewdlJE_aHUwfe5Nd0Jp9NItFqBfblzrk")
+genai.configure(api_key="YOUR-API-KEY")
 
 Selection = ["Quiz","Learning","Dashboard"]
 
