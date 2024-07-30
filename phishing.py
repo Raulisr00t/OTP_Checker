@@ -16,8 +16,8 @@ file_input = input("Please enter a filename for phishing:")
 
 port = 587
 smtp_server = "smtp.gmail.com"
-owner_mail = "pxmpkeen@gmail.com"
-owner_password = "eiaw fckm dqkd eaky"
+owner_mail = "your@gmail.com"
+owner_password = "YOUR APP KEY"
 
 def send_mail(reciever_email):
     context = ssl.create_default_context()
